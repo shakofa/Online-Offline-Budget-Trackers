@@ -19,7 +19,7 @@ When brought back online:
   [Click here!](https://afternoon-garden-52932.herokuapp.com/)
 
 
-  <img src="public\icons\image1.png" height="600" width="700">
+  <img src="public\icons\image1.png" height="600" width=100%>
 
   ## Contributors
     UCI Cooding Bootcamp Provided the code ana I added the databases
